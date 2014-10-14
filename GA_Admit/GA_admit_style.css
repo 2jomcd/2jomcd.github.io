@@ -1,0 +1,21 @@
+
+body {
+	color: rgba(255,255,255,1);
+	background: rgba(40,40,40,1);
+	max-width: 800px;
+}
+
+h1 {
+font-size: 40px;
+font-weight: bolder;
+}
+
+h2 {
+background: rgba(80,80,80,1);
+font-size: 24px;
+}
+
+p {
+padding:10px;
+font-size: 18px;
+}
